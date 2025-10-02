@@ -4,5 +4,10 @@
 
 </div>
 
+### 🛠 CURRENTLY LEARNING
+
+<h4>👨‍💻 Web Development</h4>
+
+![skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,ts,redis,bootstrap,jquery,astro,vue&theme=dark)
 
 [![An image of @bz8712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bz8712)](https://holopin.io/@bz8712)
