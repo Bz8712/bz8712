@@ -16,6 +16,11 @@
 
 [![An image of @bz8712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bz8712)](https://holopin.io/@bz8712)
 
+<img src="./images/giphy-venusaur.gif" alt="venusaur.gif" style="width: 300px;" align="left" >
+<img src="./images/giphy-charizard.gif" alt="charizard.gif" style="width: 300px;" align="left" >
+<img src="./images/giphy-blastoise.gif" alt="blastoise.gif" style="width: 300px;" align="left" >
+
+
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
