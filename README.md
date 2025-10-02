@@ -10,4 +10,8 @@
 
 ![skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,ts,redis,bootstrap,jquery,astro,vue&theme=dark)
 
+<h4>👨‍💻 Programming</h4>
+
+![skills](https://skillicons.dev/icons?i=go,cpp&theme=dark)
+
 [![An image of @bz8712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bz8712)](https://holopin.io/@bz8712)
