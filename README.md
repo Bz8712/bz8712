@@ -15,3 +15,9 @@
 ![skills](https://skillicons.dev/icons?i=go,cpp&theme=dark)
 
 [![An image of @bz8712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bz8712)](https://holopin.io/@bz8712)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
+
+</div>
